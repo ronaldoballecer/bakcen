@@ -14,7 +14,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By ballecerdigital {" "}
+            By {" "}
             <Image
               src="./ballecerdigital.svg"
               alt="Ballecer Digital Logo"
