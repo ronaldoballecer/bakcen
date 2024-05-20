@@ -16,8 +16,8 @@ export default function Home() {
           >
             By ballecerdigital {" "}
             <Image
-              src="./vercel.svg"
-              alt="Vercel Logo"
+              src="./ballecerdigital.png"
+              alt="Ballecer Digital Logo"
               className="dark:invert"
               width={100}
               height={24}
