@@ -16,7 +16,7 @@ export default function Home() {
           >
             By ballecerdigital {" "}
             <Image
-              src="./ballecerdigital.png"
+              src="./ballecerdigital.svg"
               alt="Ballecer Digital Logo"
               className="dark:invert"
               width={100}
