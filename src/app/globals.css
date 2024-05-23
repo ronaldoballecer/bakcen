@@ -30,4 +30,12 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  .paragraph-container {
+    @apply max-w-full px-4 sm:px-6 md:px-8 lg:max-w-4xl;
+  }
+
+  .mt-8-lg {
+    @apply mt-8 lg:mt-0;
+  }
 }

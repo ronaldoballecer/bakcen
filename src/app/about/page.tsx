@@ -1,4 +1,3 @@
-// src/app/about/page.tsx
 import Image from "next/image";
 
 export default function About() {
@@ -8,7 +7,7 @@ export default function About() {
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
           About Us
         </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
+        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none mt-8-lg">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -39,7 +38,7 @@ export default function About() {
         />
       </div>
 
-      <div className="max-w-4xl mx-auto text-left text-lg space-y-6">
+      <div className="paragraph-container mx-auto text-left text-lg space-y-6">
         <p>Welcome to Bakakeng Central MRF-TSD Facility, your premier destination for e-waste recycling in Baguio City. Located in the heart of Bakakeng Central, along Crystal Cave Road, we are dedicated to leading the charge in sustainable electronic waste management.</p>
         <p>At Bakakeng Central MRF-TSD Facility, we understand the critical importance of responsibly disposing of electronic devices to protect our environment and promote a healthier future for generations to come. With our state-of-the-art facilities and commitment to best practices, we offer a convenient and reliable solution for individuals and businesses seeking to recycle their e-waste responsibly.</p>
         <p>Our team is driven by a passion for environmental stewardship and a desire to make a positive impact on our community. We work closely with Barangay Bakakeng Central LGU, DENR-EMB CAR, EcoWaste, UNIDO, and the City Government of Baguio to ensure that our operations adhere to the highest standards of sustainability and compliance.</p>
