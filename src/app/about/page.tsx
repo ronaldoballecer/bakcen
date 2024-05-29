@@ -38,7 +38,7 @@ export default function About() {
         />
       </div>
 
-      <div className="paragraph-container mx-auto text-left text-lg space-y-6 mt-8">
+      <div className="paragraph-container mx-4 lg:mx-auto lg:text-left text-lg space-y-6 mt-8 lg:w-full sm:w-[90%]">
         <p>Welcome to Bakakeng Central MRF-TSD Facility, your premier destination for e-waste recycling in Baguio City. Located in the heart of Bakakeng Central, along Crystal Cave Road, we are dedicated to leading the charge in sustainable electronic waste management.</p>
         <p>At Bakakeng Central MRF-TSD Facility, we understand the critical importance of responsibly disposing of electronic devices to protect our environment and promote a healthier future for generations to come. With our state-of-the-art facilities and commitment to best practices, we offer a convenient and reliable solution for individuals and businesses seeking to recycle their e-waste responsibly.</p>
         <p>Our team is driven by a passion for environmental stewardship and a desire to make a positive impact on our community. We work closely with Barangay Bakakeng Central LGU, DENR-EMB CAR, EcoWaste, UNIDO, and the City Government of Baguio to ensure that our operations adhere to the highest standards of sustainability and compliance.</p>
